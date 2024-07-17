@@ -31,8 +31,6 @@ First insert your token into **.env** file that are taken by [camera-kit.snapcha
 - **LENS GROUP ID** 
 
 
-
-
 ## Build and Run(Local)
 
 ``` 

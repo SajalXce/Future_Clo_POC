@@ -6,9 +6,9 @@
     height: 100vh; /* Bu, konteyner div'inin tüm ekranı kaplamasını sağlar */
   }
   
-  #canvas-container {
-    /* canvas için özel stiller buraya gelebilir, eğer gerekliyse */
-  }
+  /* #canvas-container {
+    
+  } */
   
   .footer {
     display: flex;
@@ -29,4 +29,5 @@
     outline: none; /* select kutusunu seçtiğinizde oluşan çerçeveyi kaldırır */
     appearance: none; /* tarayıcıların özelleştirilmiş select stillerini kaldırır */
   }
+  
   
